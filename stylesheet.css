@@ -129,9 +129,9 @@ input#add-item:focus {
 .footer {
     position: absolute;
     bottom: 0;
-    right: 0;
+    right: 10;
     font-size: 40px;
     padding: 10px 25px;
     font-weight: 900;
-    color: #0000000a;
+    color: #000000e3;
 }
